@@ -255,6 +255,7 @@ If you'd like to see GitHub profiles, [click here](github.md).
 - Sai Grandhi http://grandhi.me
 - Saleh Hamadeh http://shamadeh.com
 - Saleh Kaddoura http://tekee.herokuapp.com/
+- Samantha Garcia http://sgarcia22.github.io
 - Sang Han http://sanghan.me
 - Sankarshan Vidyadhar Mudkavi http://smudkavi.com/
 - Sean Smith http://seanssmith.me
